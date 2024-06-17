@@ -1,0 +1,16 @@
+[
+    {
+        "OrangeFox": {
+            "Repo": "https://gitlab.com/OrangeFox/sync.git",
+            "Branch": "12.1"
+        },
+        "Device": {
+            "Repo": "https://github.com/Anya1014CN/fox_device_xiaomi_chopin",
+            "Branch": "android-12",
+            "Location": "device/xiaomi/chopin",
+            "DeviceName": "chopin",
+            "Makefile": "twrp_chopin",
+            "BootPartition": "boot"
+        }
+    }
+]
